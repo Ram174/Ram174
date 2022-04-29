@@ -30,7 +30,8 @@ DevOps Engineer
 
 ### Badges
 <p>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="50" height="50" alt="Az-104" /></a>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80" height="80" alt="Az-104"    /></a>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="80" height="80" alt="Az-104" /></a>
 </p>
 
 <b>My GitHub Stats</b>
@@ -41,6 +42,3 @@ DevOps Engineer
 
 <a href="http://www.github.com/ram174"><img src="https://activity-graph.herokuapp.com/graph?username=ram174&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ram"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

@@ -20,7 +20,7 @@ DevOps Engineer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://iconscout.com/icon/docker-3521391" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/2x/docker.png" width="36" height="36" alt="Docker" /></a>
 </p>
 
 

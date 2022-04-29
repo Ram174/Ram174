@@ -29,6 +29,9 @@ DevOps Engineer
 <p align="left"> <a href="https://www.github.com/ram174" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<p>a
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="36" height="36" alt="Az-104" /></a>
+</p>
 
 <b>My GitHub Stats</b>
 

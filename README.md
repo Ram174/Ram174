@@ -1,7 +1,7 @@
 Hi 👋 My name is Rama Krishna
 =============================
 
-DevOps Engineer
+Cloud Engineer
 ---------------
 
 📕 Bachelor of Technology
